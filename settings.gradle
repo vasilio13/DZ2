@@ -1,0 +1,6 @@
+rootProject.name='DZ2'
+include ':app'
+include ':dz2'
+include ':app:dz2-2'
+include ':app:dz2-3'
+include ':app:dz2-4'

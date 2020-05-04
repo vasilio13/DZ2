@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TableRow>
+        <TextView
+            android:layout_margin="10dp"
+
+            android:text="125"
+            />
+        <TextView
+            android:layout_margin="10dp"
+            android:text="20K"
+            />
+        <TextView
+            android:layout_margin="10dp"
+            android:text="22"
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_margin="10dp"
+
+            android:text="Posts"
+            />
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Folowers"
+            />
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Folowing"
+            />
+    </TableRow>
+</TableLayout>

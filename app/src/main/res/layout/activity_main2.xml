@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical" >
+
+
+   <include layout="@layout/attractions_panel"/>
+   <include layout="@layout/dining_panel"/>
+   <include layout="@layout/education_panel"/>
+    <include layout="@layout/family_panel"/>
+    <include layout="@layout/health_panel"/>
+    <include layout="@layout/office_panel"/>
+    <include layout="@layout/promotions_panel"/>
+    <include layout="@layout/radio_panel"/>
+    <include layout="@layout/recipes_panel"/>
+    <include layout="@layout/sports_panel"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
